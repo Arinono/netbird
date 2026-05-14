@@ -32,5 +32,6 @@ infrastructure_files/setup-*.env
 .DS_Store
 vendor/
 /netbird
+/netbird-config-gen
 client/netbird-electron/
 management/server/types/testdata/
